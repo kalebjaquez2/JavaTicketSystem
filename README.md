@@ -13,17 +13,26 @@ Allows the purchase of optional parking passes.
 Validates user input for seating selection and ticket quantity.
 Provides a summary of the total price, including taxes, processing fees, and any required donations.
 
-How to run code:
-Clone the repository-
-git clone https://github.com/kalebjaquez2/JavaTicketSystem.git
+ ## How to run
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/kalebjaquez2/JavaTicketSystem.git
+    ```
 
-Navigate to the project directory:
-Copy code
-cd JavaTicketSystem in command line
+2. Navigate to the project directory:
+    ```bash
+    cd JavaTicketSystem
+    ```
 
-Compile and run the program:
-javac Proj3.java in command Line
-java Proj3 in command line
+3. Compile the program:
+    ```bash
+    javac Proj3.java
+    ```
+
+4. Run the program:
+    ```bash
+    java Proj3
+    ```
 
 Sample Output-
 
